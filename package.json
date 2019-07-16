@@ -1,0 +1,16 @@
+{
+  "name": "graylog-test",
+  "description": "A test repo to verify type definitions for winston-graylog2 lib",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.19",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}

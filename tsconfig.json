@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "module": "commonjs",
+    "target": "ES2017",
+    "sourceMap": true,
+    "pretty": true,
+    "removeComments": true,
+    "strict": true,
+    "preserveConstEnums": true,
+    "noUnusedLocals": true,
+    "lib": [
+      "esnext"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}
